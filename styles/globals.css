@@ -67,7 +67,8 @@ width: 100%;
 .logo{
   color: gray;
   font-size: 18px;
-
+position: relative;
+left: 30px;
 }
 .cart-icon{
   font-size: 25px;
